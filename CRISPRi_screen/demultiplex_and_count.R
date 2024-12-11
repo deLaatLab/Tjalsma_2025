@@ -1,4 +1,6 @@
 if (!require("ShortRead", character.only = TRUE)) stop("Package not found: ShortRead")
+#> packageVersion("ShortRead")
+#[1] ‘1.56.1’
 
 
 gRNA<-read.table('/home/p.krijger_cbs-niob.local/projects/Sjoerd/screen/CRISPRi_LaatCustom_librarytable.txt'
