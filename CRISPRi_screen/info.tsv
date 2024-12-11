@@ -1,0 +1,40 @@
+expr_id	rep_id	index_id	barcode	fastq
+E0_Low	1	index1	GAGACTATAAGTATCCCTTGGAGAACCACC	/home/p.krijger_cbs-niob.local/g/Group deLaat/temp/2022/VER7726/fastqs/lanes_combined_single-index/Truseq-LT01_S1_R1_001.fastq.gz
+E0_High	1	index3	GAGACTATAAGTATCCCTTGGAGAACCACC	/home/p.krijger_cbs-niob.local/g/Group deLaat/temp/2022/VER7726/fastqs/lanes_combined_single-index/Truseq-LT03_S3_R1_001.fastq.gz
+E50_Low	1	index4	CGAGACTATAAGTATCCCTTGGAGAACCACC	/home/p.krijger_cbs-niob.local/g/Group deLaat/temp/2022/VER7726/fastqs/lanes_combined_single-index/Truseq-LT04_S4_R1_001.fastq.gz
+E50_High	1	index6	CGAGACTATAAGTATCCCTTGGAGAACCACC	/home/p.krijger_cbs-niob.local/g/Group deLaat/temp/2022/VER7726/fastqs/lanes_combined_single-index/Truseq-LT06_S6_R1_001.fastq.gz
+EC100_Low	1	index7	ACGAGACTATAAGTATCCCTTGGAGAACCACC	/home/p.krijger_cbs-niob.local/g/Group deLaat/temp/2022/VER7726/fastqs/lanes_combined_single-index/Truseq-LT07_S7_R1_001.fastq.gz
+EC100_High	1	index9	ACGAGACTATAAGTATCCCTTGGAGAACCACC	/home/p.krijger_cbs-niob.local/g/Group deLaat/temp/2022/VER7726/fastqs/lanes_combined_single-index/Truseq-LT09_S9_R1_001.fastq.gz
+E100_Low	1	index10	GAGACTATAAGTATCCCTTGGAGAACCACC	/home/p.krijger_cbs-niob.local/g/Group deLaat/temp/2022/VER7726/fastqs/lanes_combined_single-index/Truseq-LT10_S10_R1_001.fastq.gz
+E100_High	1	index12	GAGACTATAAGTATCCCTTGGAGAACCACC	/home/p.krijger_cbs-niob.local/g/Group deLaat/temp/2022/VER7726/fastqs/lanes_combined_single-index/Truseq-LT12_S12_R1_001.fastq.gz
+E0_Low	2	index1	GAGACTATAAGTATCCCTTGGAGAACCACC	/home/p.krijger_cbs-niob.local/g/Group deLaat/temp/2022/GenDX_Sjoerd-Anna/MiniSeq_GenDx_JC01_Sjoerd_2022-08-29/Truseq1_S1_L001_R1_001.fastq.gz
+E0_High	2	index3	GAGACTATAAGTATCCCTTGGAGAACCACC	/home/p.krijger_cbs-niob.local/g/Group deLaat/temp/2022/GenDX_Sjoerd-Anna/MiniSeq_GenDx_JC01_Sjoerd_2022-08-29/Truseq3_S3_L001_R1_001.fastq.gz
+E50_Low	2	index4	CGAGACTATAAGTATCCCTTGGAGAACCACC	/home/p.krijger_cbs-niob.local/g/Group deLaat/temp/2022/GenDX_Sjoerd-Anna/MiniSeq_GenDx_JC01_Sjoerd_2022-08-29/Truseq4_S4_L001_R1_001.fastq.gz
+E50_High	2	index6	CGAGACTATAAGTATCCCTTGGAGAACCACC	/home/p.krijger_cbs-niob.local/g/Group deLaat/temp/2022/GenDX_Sjoerd-Anna/MiniSeq_GenDx_JC01_Sjoerd_2022-08-29/Truseq6_S6_L001_R1_001.fastq.gz
+EC100_Low	2	index7	ACGAGACTATAAGTATCCCTTGGAGAACCACC	/home/p.krijger_cbs-niob.local/g/Group deLaat/temp/2022/GenDX_Sjoerd-Anna/MiniSeq_GenDx_JC01_Sjoerd_2022-08-29/Truseq7_S7_L001_R1_001.fastq.gz
+EC100_High	2	index9	ACGAGACTATAAGTATCCCTTGGAGAACCACC	/home/p.krijger_cbs-niob.local/g/Group deLaat/temp/2022/GenDX_Sjoerd-Anna/MiniSeq_GenDx_JC01_Sjoerd_2022-08-29/Truseq9_S9_L001_R1_001.fastq.gz
+E100_Low	2	index10	GAGACTATAAGTATCCCTTGGAGAACCACC	/home/p.krijger_cbs-niob.local/g/Group deLaat/temp/2022/GenDX_Sjoerd-Anna/MiniSeq_GenDx_JC01_Sjoerd_2022-08-29/Truseq10_S10_L001_R1_001.fastq.gz
+E100_High	2	index12	GAGACTATAAGTATCCCTTGGAGAACCACC	/home/p.krijger_cbs-niob.local/g/Group deLaat/temp/2022/GenDX_Sjoerd-Anna/MiniSeq_GenDx_JC01_Sjoerd_2022-08-29/Truseq12_S12_L001_R1_001.fastq.gz
+E0_Low	3	index1	GAGACTATAAGTATCCCTTGGAGAACCACC	/home/p.krijger_cbs-niob.local/g/Group deLaat/temp/2022/GenDX_Sjoerd-Anna/MiniSeq_GenDx_JC04_Sjoerd_2022-09-15/TruSeq1_S1_L001_R1_001.fastq.gz
+E0_High	3	index3	GAGACTATAAGTATCCCTTGGAGAACCACC	/home/p.krijger_cbs-niob.local/g/Group deLaat/temp/2022/GenDX_Sjoerd-Anna/MiniSeq_GenDx_JC04_Sjoerd_2022-09-15/TruSeq3_S3_L001_R1_001.fastq.gz
+E50_Low	3	index4	CGAGACTATAAGTATCCCTTGGAGAACCACC	/home/p.krijger_cbs-niob.local/g/Group deLaat/temp/2022/GenDX_Sjoerd-Anna/MiniSeq_GenDx_JC04_Sjoerd_2022-09-15/TruSeq4_S4_L001_R1_001.fastq.gz
+E50_High	3	index6	CGAGACTATAAGTATCCCTTGGAGAACCACC	/home/p.krijger_cbs-niob.local/g/Group deLaat/temp/2022/GenDX_Sjoerd-Anna/MiniSeq_GenDx_JC04_Sjoerd_2022-09-15/TruSeq6_S6_L001_R1_001.fastq.gz
+EC100_Low	3	index7	ACGAGACTATAAGTATCCCTTGGAGAACCACC	/home/p.krijger_cbs-niob.local/g/Group deLaat/temp/2022/GenDX_Sjoerd-Anna/MiniSeq_GenDx_JC04_Sjoerd_2022-09-15/TruSeq7_S7_L001_R1_001.fastq.gz
+EC100_High	3	index9	ACGAGACTATAAGTATCCCTTGGAGAACCACC	/home/p.krijger_cbs-niob.local/g/Group deLaat/temp/2022/GenDX_Sjoerd-Anna/MiniSeq_GenDx_JC04_Sjoerd_2022-09-15/TruSeq9_S9_L001_R1_001.fastq.gz
+E100_Low	3	index10	GAGACTATAAGTATCCCTTGGAGAACCACC	/home/p.krijger_cbs-niob.local/g/Group deLaat/temp/2022/GenDX_Sjoerd-Anna/MiniSeq_GenDx_JC04_Sjoerd_2022-09-15/TruSeq10_S10_L001_R1_001.fastq.gz
+E100_High	3	index12	GAGACTATAAGTATCCCTTGGAGAACCACC	/home/p.krijger_cbs-niob.local/g/Group deLaat/temp/2022/GenDX_Sjoerd-Anna/MiniSeq_GenDx_JC04_Sjoerd_2022-09-15/TruSeq12_S12_L001_R1_001.fastq.gz
+E0_Low	4	index1	GAGACTATAAGTATCCCTTGGAGAACCACC	/storage/shared/VER10110/fastq/TruSeq-LT01xUniversal_smallRNA_S54_R1_001.fastq.gz
+E0_High	4	index3	GAGACTATAAGTATCCCTTGGAGAACCACC	/storage/shared/VER10110/fastq/TruSeq-LT03xUniversal_smallRNA_S55_R1_001.fastq.gz
+E50_Low	4	index4	CGAGACTATAAGTATCCCTTGGAGAACCACC	/storage/shared/VER10110/fastq/TruSeq-LT04xUniversal_smallRNA_S56_R1_001.fastq.gz
+E50_High	4	index6	CGAGACTATAAGTATCCCTTGGAGAACCACC	/storage/shared/VER10110/fastq/TruSeq-LT06xUniversal_smallRNA_S57_R1_001.fastq.gz
+EC100_Low	4	index7	ACGAGACTATAAGTATCCCTTGGAGAACCACC	/storage/shared/VER10110/fastq/TruSeq-LT07xUniversal_smallRNA_S58_R1_001.fastq.gz
+EC100_High	4	index9	ACGAGACTATAAGTATCCCTTGGAGAACCACC	/storage/shared/VER10110/fastq/TruSeq-LT09xUniversal_smallRNA_S59_R1_001.fastq.gz
+E100_Low	4	index10	GAGACTATAAGTATCCCTTGGAGAACCACC	/storage/shared/VER10110/fastq/TruSeq-LT10xUniversal_smallRNA_S60_R1_001.fastq.gz
+E100_High	4	index12	GAGACTATAAGTATCCCTTGGAGAACCACC	/storage/shared/VER10110/fastq/TruSeq-LT12xUniversal_smallRNA_S61_R1_001.fastq.gz
+E0_Low	5	index1	GAGACTATAAGTATCCCTTGGAGAACCACC	/storage/shared/VER10253/fastq/TruSeq-LT01xUniversal_smallRNA_S2_R1_001.fastq.gz
+E0_High	5	index3	GAGACTATAAGTATCCCTTGGAGAACCACC	/storage/shared/VER10253/fastq/TruSeq-LT03xUniversal_smallRNA_S3_R1_001.fastq.gz
+E50_Low	5	index4	CGAGACTATAAGTATCCCTTGGAGAACCACC	/storage/shared/VER10253/fastq/TruSeq-LT04xUniversal_smallRNA_S4_R1_001.fastq.gz
+E50_High	5	index6	CGAGACTATAAGTATCCCTTGGAGAACCACC	/storage/shared/VER10253/fastq/TruSeq-LT06xUniversal_smallRNA_S5_R1_001.fastq.gz
+E0_Unsorted	1	index4	ACGAGACTATAAGTATCCCTTGGAGAACCACC	/home/p.krijger_cbs-niob.local/g/Group deLaat/temp/2022/VER7726/fastqs/lanes_combined_single-index/Truseq-LT04_S4_R1_001.fastq.gz
+E0_Unsorted	2	index4	ACGAGACTATAAGTATCCCTTGGAGAACCACC	/home/p.krijger_cbs-niob.local/g/Group deLaat/temp/2022/GenDX_Sjoerd-Anna/MiniSeq_GenDx_JC01_Sjoerd_2022-08-29/Truseq4_S4_L001_R1_001.fastq.gz
+E0_Unsorted	3	index4	ACGAGACTATAAGTATCCCTTGGAGAACCACC	/home/p.krijger_cbs-niob.local/g/Group deLaat/temp/2022/GenDX_Sjoerd-Anna/MiniSeq_GenDx_JC04_Sjoerd_2022-09-15/TruSeq4_S4_L001_R1_001.fastq.gz

@@ -1,0 +1,10 @@
+Samples	Baseline	E0_Low	E0_High	E50_Low	E50_High	E100_Low	E100_High	EC100_Low	EC100_High
+E0_Unsorted	1	0	0	0	0	0	0	0	0
+E0_Low	1	1	0	0	0	0	0	0	0
+E0_High	1	0	1	0	0	0	0	0	0
+E50_Low	1	0	0	1	0	0	0	0	0
+E50_High	1	0	0	0	1	0	0	0	0
+E100_Low	1	0	0	0	0	1	0	0	0
+E100_High	1	0	0	0	0	0	1	0	0
+EC100_Low	1	0	0	0	0	0	0	1	0
+EC100_High	1	0	0	0	0	0	0	0	1
