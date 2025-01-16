@@ -7,6 +7,7 @@ library(reshape)
 library(tidyverse)
 
 ###load in ABC table
+#https://www.encodeproject.org/files/ENCFF202FID/
 abc<-read.table("ENCFF202FID.bed.gz", header=FALSE)
 colnames(abc)<-colnames(read.table("ENCFF202FID.bed.gz", header=TRUE, nrows = 1, comment.char = ''))
 colnames(abc)
